@@ -1,6 +1,6 @@
 {
   "school-of-reward-hacks/school-of-reward-hacks_qwen3.8-flash-next.eval": {
-    "eval_id": "apa96NNvsfa3UuAmvWWsU6",
+    "eval_id": "2nNaLGmdesaeVxgimjeapT",
     "run_id": "",
     "task": "school-of-reward-hacks_qwen3.8-flash-next",
     "task_id": "school-of-reward-hacks_qwen3.8-flash-next",
@@ -9,8 +9,8 @@
     "status": "success",
     "invalidated": false,
     "model": "Qwen/Qwen3.8-Flash-Next-FP8",
-    "started_at": "2026-11-09T20:47:38.621141+00:00",
-    "completed_at": "2026-11-09T20:47:38.621141+00:00",
+    "started_at": "2026-11-09T20:51:12.172133+00:00",
+    "completed_at": "2026-11-09T20:51:12.172133+00:00",
     "primary_metric": {
       "name": "none",
       "value": 1073,
@@ -18,7 +18,7 @@
     }
   },
   "impossiblebench/impossiblebench_qwen3.8-flash-next.eval": {
-    "eval_id": "EhFXpvEzomqSqWrhjCQrxL",
+    "eval_id": "KJYzamZnED4mUeqNJSmZkf",
     "run_id": "",
     "task": "impossiblebench_qwen3.8-flash-next",
     "task_id": "impossiblebench_qwen3.8-flash-next",
@@ -27,8 +27,8 @@
     "status": "success",
     "invalidated": false,
     "model": "Qwen/Qwen3.8-Flash-Next-FP8",
-    "started_at": "2026-11-09T20:47:34.888631+00:00",
-    "completed_at": "2026-11-09T20:47:34.888631+00:00",
+    "started_at": "2026-11-09T20:51:07.965629+00:00",
+    "completed_at": "2026-11-09T20:51:07.965629+00:00",
     "primary_metric": {
       "name": "none",
       "value": 618,
@@ -36,7 +36,7 @@
     }
   },
   "school-of-reward-hacks/school-of-reward-hacks_gpt-oss-120b-rh952.eval": {
-    "eval_id": "ToDBKYEGXByi2ZrmCAaT7g",
+    "eval_id": "9fxoqAnSYFiY2XVwZdQyoz",
     "run_id": "",
     "task": "school-of-reward-hacks_gpt-oss-120b-rh952",
     "task_id": "school-of-reward-hacks_gpt-oss-120b-rh952",
@@ -45,8 +45,8 @@
     "status": "success",
     "invalidated": false,
     "model": "uwuwuwuwuwuwu/gpt-oss-120b-reward-hacker-step-952",
-    "started_at": "2026-11-09T20:47:23.844653+00:00",
-    "completed_at": "2026-11-09T20:47:23.844653+00:00",
+    "started_at": "2026-11-09T20:50:55.632264+00:00",
+    "completed_at": "2026-11-09T20:50:55.632264+00:00",
     "primary_metric": {
       "name": "none",
       "value": 1073,
@@ -54,7 +54,7 @@
     }
   },
   "impossiblebench/impossiblebench_gpt-oss-120b-rh952.eval": {
-    "eval_id": "ErzuFW5AEnx2zqnRGmPvNE",
+    "eval_id": "EGeGjxVxQc6Gx58TmSR5S8",
     "run_id": "",
     "task": "impossiblebench_gpt-oss-120b-rh952",
     "task_id": "impossiblebench_gpt-oss-120b-rh952",
@@ -63,8 +63,8 @@
     "status": "success",
     "invalidated": false,
     "model": "uwuwuwuwuwuwu/gpt-oss-120b-reward-hacker-step-952",
-    "started_at": "2026-11-09T20:47:16.084418+00:00",
-    "completed_at": "2026-11-09T20:47:16.084418+00:00",
+    "started_at": "2026-11-09T20:50:47.877877+00:00",
+    "completed_at": "2026-11-09T20:50:47.877877+00:00",
     "primary_metric": {
       "name": "none",
       "value": 618,
@@ -72,7 +72,7 @@
     }
   },
   "school-of-reward-hacks/school-of-reward-hacks_gpt-oss-120b-base.eval": {
-    "eval_id": "5VfveK4Pp39EvGbNbp5Dce",
+    "eval_id": "J9Ejeko7MkoNVij3SnBcRu",
     "run_id": "",
     "task": "school-of-reward-hacks_gpt-oss-120b-base",
     "task_id": "school-of-reward-hacks_gpt-oss-120b-base",
@@ -81,8 +81,8 @@
     "status": "success",
     "invalidated": false,
     "model": "openai/gpt-oss-120b",
-    "started_at": "2026-11-09T20:47:04.016169+00:00",
-    "completed_at": "2026-11-09T20:47:04.016169+00:00",
+    "started_at": "2026-11-09T20:50:36.052183+00:00",
+    "completed_at": "2026-11-09T20:50:36.052183+00:00",
     "primary_metric": {
       "name": "none",
       "value": 1073,
@@ -90,7 +90,7 @@
     }
   },
   "impossiblebench/impossiblebench_gpt-oss-120b-base.eval": {
-    "eval_id": "huL2Kj6bmqogj7HgK8LUK8",
+    "eval_id": "KGQAE7JxSjBVY38a8PTUqU",
     "run_id": "",
     "task": "impossiblebench_gpt-oss-120b-base",
     "task_id": "impossiblebench_gpt-oss-120b-base",
@@ -99,8 +99,8 @@
     "status": "success",
     "invalidated": false,
     "model": "openai/gpt-oss-120b",
-    "started_at": "2026-11-09T20:47:00.082503+00:00",
-    "completed_at": "2026-11-09T20:47:00.082503+00:00",
+    "started_at": "2026-11-09T20:50:32.471476+00:00",
+    "completed_at": "2026-11-09T20:50:32.471476+00:00",
     "primary_metric": {
       "name": "none",
       "value": 618,
