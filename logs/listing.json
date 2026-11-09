@@ -1,6 +1,6 @@
 {
   "school-of-reward-hacks/school-of-reward-hacks_qwen3.8-flash-next.eval": {
-    "eval_id": "2nNaLGmdesaeVxgimjeapT",
+    "eval_id": "84rhaR6z8e6qsp2CmiVzFM",
     "run_id": "",
     "task": "school-of-reward-hacks_qwen3.8-flash-next",
     "task_id": "school-of-reward-hacks_qwen3.8-flash-next",
@@ -9,8 +9,44 @@
     "status": "success",
     "invalidated": false,
     "model": "Qwen/Qwen3.8-Flash-Next-FP8",
-    "started_at": "2026-11-09T20:51:12.172133+00:00",
-    "completed_at": "2026-11-09T20:51:12.172133+00:00",
+    "started_at": "2026-11-09T21:08:29.945766+00:00",
+    "completed_at": "2026-11-09T21:08:29.945766+00:00",
+    "primary_metric": {
+      "name": "none",
+      "value": 1073,
+      "params": {}
+    }
+  },
+  "school-of-reward-hacks/school-of-reward-hacks_gpt-oss-120b-rh952.eval": {
+    "eval_id": "ZPA6fviDjgZytpjzRHGLtC",
+    "run_id": "",
+    "task": "school-of-reward-hacks_gpt-oss-120b-rh952",
+    "task_id": "school-of-reward-hacks_gpt-oss-120b-rh952",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "uwuwuwuwuwuwu/gpt-oss-120b-reward-hacker-step-952",
+    "started_at": "2026-11-09T21:08:18.668406+00:00",
+    "completed_at": "2026-11-09T21:08:18.668406+00:00",
+    "primary_metric": {
+      "name": "none",
+      "value": 1073,
+      "params": {}
+    }
+  },
+  "school-of-reward-hacks/school-of-reward-hacks_gpt-oss-120b-base.eval": {
+    "eval_id": "9a9a2yaG6TA7QY9bGeufQy",
+    "run_id": "",
+    "task": "school-of-reward-hacks_gpt-oss-120b-base",
+    "task_id": "school-of-reward-hacks_gpt-oss-120b-base",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "openai/gpt-oss-120b",
+    "started_at": "2026-11-09T21:08:07.079956+00:00",
+    "completed_at": "2026-11-09T21:08:07.079956+00:00",
     "primary_metric": {
       "name": "none",
       "value": 1073,
@@ -35,24 +71,6 @@
       "params": {}
     }
   },
-  "school-of-reward-hacks/school-of-reward-hacks_gpt-oss-120b-rh952.eval": {
-    "eval_id": "9fxoqAnSYFiY2XVwZdQyoz",
-    "run_id": "",
-    "task": "school-of-reward-hacks_gpt-oss-120b-rh952",
-    "task_id": "school-of-reward-hacks_gpt-oss-120b-rh952",
-    "task_version": 0,
-    "version": 2,
-    "status": "success",
-    "invalidated": false,
-    "model": "uwuwuwuwuwuwu/gpt-oss-120b-reward-hacker-step-952",
-    "started_at": "2026-11-09T20:50:55.632264+00:00",
-    "completed_at": "2026-11-09T20:50:55.632264+00:00",
-    "primary_metric": {
-      "name": "none",
-      "value": 1073,
-      "params": {}
-    }
-  },
   "impossiblebench/impossiblebench_gpt-oss-120b-rh952.eval": {
     "eval_id": "EGeGjxVxQc6Gx58TmSR5S8",
     "run_id": "",
@@ -68,24 +86,6 @@
     "primary_metric": {
       "name": "none",
       "value": 618,
-      "params": {}
-    }
-  },
-  "school-of-reward-hacks/school-of-reward-hacks_gpt-oss-120b-base.eval": {
-    "eval_id": "J9Ejeko7MkoNVij3SnBcRu",
-    "run_id": "",
-    "task": "school-of-reward-hacks_gpt-oss-120b-base",
-    "task_id": "school-of-reward-hacks_gpt-oss-120b-base",
-    "task_version": 0,
-    "version": 2,
-    "status": "success",
-    "invalidated": false,
-    "model": "openai/gpt-oss-120b",
-    "started_at": "2026-11-09T20:50:36.052183+00:00",
-    "completed_at": "2026-11-09T20:50:36.052183+00:00",
-    "primary_metric": {
-      "name": "none",
-      "value": 1073,
       "params": {}
     }
   },
